@@ -1,0 +1,12 @@
+nav ul{
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: none;
+    list-style: none;
+    margin: 0%;
+        
+}
+nav{
+    background-color: rgb(27, 150, 172);
+}
+

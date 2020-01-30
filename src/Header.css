@@ -1,0 +1,21 @@
+header h1{
+    margin: 0 auto;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 170px;
+    font-size: 4rem;
+}
+
+header a{
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,0.1);
+    background-color: rgb(9, 201, 201);
+    text-decoration: none;
+    margin-left: 42%;
+    margin-top: 3%;
+    font-weight: 700;
+    color: aliceblue;
+    padding: 1.25rem 2.5rem;
+    border-radius: .25rem;
+    display: inline-block;
+}
+
